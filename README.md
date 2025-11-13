@@ -79,10 +79,14 @@ def sarsa(env,
     return Q, V, pi, Q_track, pi_track
 ```
 ## OUTPUT:
+
 ### optimal policy, optimal value function , success rate for the optimal policy.
+<img width="1117" height="691" alt="image" src="https://github.com/user-attachments/assets/aed18da5-e4f7-490e-a5f3-529f65a84685" />
+
 <img width="1827" height="662" alt="image" src="https://github.com/user-attachments/assets/e405411c-9830-4bcf-91a5-ece01e7127c1" />
 
 ### plot comparing the state value functions of Monte Carlo method and SARSA learning.
+<img width="1077" height="757" alt="image" src="https://github.com/user-attachments/assets/098cbe94-9879-4298-bded-12de613689fd" />
 <img width="1817" height="673" alt="image" src="https://github.com/user-attachments/assets/5c7d4e44-6b9e-4f78-bd8c-9d8cf9c0c4b4" />
 
 ## RESULT:
